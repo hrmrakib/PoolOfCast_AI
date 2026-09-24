@@ -1,0 +1,10 @@
+.venv/
+.venv
+.env
+local_talent.db
+__pycache__/ 
+*pyc
+media/ 
+media
+castlinkai.yaml
+castlinkai.yaml/
